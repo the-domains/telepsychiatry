@@ -1,0 +1,14 @@
+layout_spectrum: 0.9318064961116761
+typography_spectrum: 0.2662019548006356
+color:
+  brandStrength: 0.6544006895273924
+  lightness: 0.696584083372727
+  saturation: 0.49902552855201066
+  rhythmicContrast: 0.5842192124109715
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Telepsychiatry
