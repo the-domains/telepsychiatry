@@ -6,9 +6,9 @@ color:
   saturation: 0.49902552855201066
   rhythmicContrast: 0.5842192124109715
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
 name: Telepsychiatry
